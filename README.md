@@ -114,7 +114,7 @@ All server management is performed through a **unified web interface** with **re
   - Squad
   - Admin
 - Message filtering
-- Send announcements as **Server**
+- Send message to **Server** or only to player
 ![](https://cdn.discordapp.com/attachments/1452785146964082763/1452804298869178574/image.png?ex=694b24f0&is=6949d370&hm=b128f4e2f867568e237e2fc8b800b6626b1d1ff1e5079a8d6bf7ed0563dd4908&)
 
 ### Plugins Tab
